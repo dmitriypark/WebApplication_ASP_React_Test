@@ -1,5 +1,5 @@
 1)Запустить WebApplication_ASP_React_Test.sln
-![Image alt](https://github.com/dmitriypark/WebApplication_ASP_React_Test/tree/master/imgForMD/tut1.png)
+![Image alt](https://github.com/dmitriypark/WebApplication_ASP_React_Test/blob/master/imgForMD/tut1.PNG)
 2)Открыть консоль диспетчера пакетов
 Вид>Другие окна>Консоль диспетчера пакетов
  
