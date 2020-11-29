@@ -1,18 +1,18 @@
-1)Запустить WebApplication_ASP_React_Test.sln
-
-2)Открыть консоль диспетчера пакетов
-Вид>Другие окна>Консоль диспетчера пакетов
+1)Р—Р°РїСѓСЃС‚РёС‚СЊ WebApplication_ASP_React_Test.sln
+![Image alt](https://github.com/dmitriypark/WebApplication_ASP_React_Test/tree/master/imgForMD/tut1.png)
+2)РћС‚РєСЂС‹С‚СЊ РєРѕРЅСЃРѕР»СЊ РґРёСЃРїРµС‚С‡РµСЂР° РїР°РєРµС‚РѕРІ
+Р’РёРґ>Р”СЂСѓРіРёРµ РѕРєРЅР°>РљРѕРЅСЃРѕР»СЊ РґРёСЃРїРµС‚С‡РµСЂР° РїР°РєРµС‚РѕРІ
  
 
-3)Прописать команду: "add-migration Initial"
+3)РџСЂРѕРїРёСЃР°С‚СЊ РєРѕРјР°РЅРґСѓ: "add-migration Initial"
  
 
-4)Прописать команду:"update-database"
+4)РџСЂРѕРїРёСЃР°С‚СЊ РєРѕРјР°РЅРґСѓ:"update-database"
  
 
-5)Запустить проект 
+5)Р—Р°РїСѓСЃС‚РёС‚СЊ РїСЂРѕРµРєС‚ 
  
-При осутствии IIS Express, скачать с  https://www.microsoft.com/ru-RU/download/details.aspx?id=48264
+РџСЂРё РѕСЃСѓС‚СЃС‚РІРёРё IIS Express, СЃРєР°С‡Р°С‚СЊ СЃ  https://www.microsoft.com/ru-RU/download/details.aspx?id=48264
 
 
 
