@@ -76,7 +76,7 @@ namespace WebApplication_ASP_React_Test
 							template: "{controller}/{action}/{id?}",
 							defaults: new { controller = "Order", action = "Index" }
 				);
-			});
+			});				
 			SeedData.EnsurePopulated(app);
 		}
 	}
