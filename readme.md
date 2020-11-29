@@ -10,7 +10,7 @@
  
 
 4)Прописать команду:"update-database"
- 
+ ![Image alt](https://github.com/dmitriypark/WebApplication_ASP_React_Test/blob/master/imgForMD/tut4.PNG)
 
 5)Запустить проект 
 ![Image alt](https://github.com/dmitriypark/WebApplication_ASP_React_Test/blob/master/imgForMD/tut3.PNG)
